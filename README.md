@@ -1,2 +1,2 @@
 # asds_2
-ASDS II Exam Project
+Advanced Social Data Science II Exam Project completed with other 3 students. Each exam number corresponds to one of the four students.
