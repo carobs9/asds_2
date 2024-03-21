@@ -3,15 +3,15 @@ Advanced Social Data Science II Exam Project completed with other 3 students. Ea
  
  ## Table of contents:
 
- Part 1: Measuring grandstanding in parliaments
+ ### Part 1: Measuring grandstanding in parliaments
   1.1. Justification (27)
   1.2. ANEW Dictionary Augmentation (60)
   1.3. Alternative Method (48)
- Part 2: Detecting Harassment
+ ### Part 2: Detecting Harassment
   2.1. Dictionary Method (24)
   2.2. Topic Model (24)
   2.3. Supervised Learning (60)
- Part 3: Supervised Text Classification
+ ### Part 3: Supervised Text Classification
   3.0. Packages, data, functions and data transformation
   3.0.1.Packages (24, 27 48, 60)
   3.0.2.Data (24, 27 48, 60)
@@ -33,7 +33,7 @@ Advanced Social Data Science II Exam Project completed with other 3 students. Ea
   3.3.3.Deep Learning (BERT)
   3.4.Performance (27)
   3.5.Discussion (48)
- Part 4: Word Embeddings
+ ### Part 4: Word Embeddings
   4.1.Training (24)
   4.2.Similarity (24)
   4.3.Supervised Task (24)
