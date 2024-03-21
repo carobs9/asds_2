@@ -18,8 +18,8 @@ Advanced Social Data Science II Exam Project completed with other 3 students. Ea
   2.2. Topic Model (24)
   
   2.3. Supervised Learning (60)
-  
- ### Part 3: Supervised Text Classification
+ 
+ ### Part 3: Supervised Text Classification
  
   3.0. Packages, data, functions and data transformation
   
@@ -63,7 +63,7 @@ Advanced Social Data Science II Exam Project completed with other 3 students. Ea
   
   3.5.Discussion (48)
   
- ### Part 4: Word Embeddings
+  ### Part 4: Word Embeddings
  
   4.1.Training (24)
   
