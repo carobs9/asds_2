@@ -11,7 +11,7 @@ Advanced Social Data Science II Exam Project completed with other 3 students. Ea
   
   1.3. Alternative Method (48)
   
- ### Part 2: Detecting Harassment
+  ### Part 2: Detecting Harassment
  
   2.1. Dictionary Method (24)
   
